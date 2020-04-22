@@ -16,6 +16,6 @@ def fib(n):
             b = c
             print(c)
             
- # Call the function to print first five numbers i the sequence
+ # Call the function to print first five numbers in the sequence
            
 fib(5)          
